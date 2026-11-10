@@ -4,7 +4,7 @@
 
 ## Janji
 
-> Saya **\[Nama Lengkap Kamu\]** dengan NIM **\[NIM Kamu\]** mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang dispesifikasikan. Aamiin.
+> Saya Luthfi Aulia Jodi dengan NIM 2521743 mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang dispesifikasikan. Aamiin.
 
 ## Tema Website
 
